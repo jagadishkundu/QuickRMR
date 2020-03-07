@@ -7,4 +7,4 @@ Kundu, J., Sarkar, K., Singh, A.K., & Singh, T.N. (2020). QuickRMR beta. A Rock 
 
 Cite the article for continuous functions  used in this code:
 
-Kundu, J., Sarkar, K., Singh, A.K., & Singh, T.N. (2020) Continuous functions and a computer application for rock mass rating. Int. J. Rock Mech. Min. Sci.
+Kundu, J., Sarkar, K., Singh, A.K., & Singh, T.N. (in press) Continuous functions and a computer application for rock mass rating. Int. J. Rock Mech. Min. Sci.
